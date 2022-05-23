@@ -1,0 +1,22 @@
+.hero {
+
+    &__profession {
+        margin-bottom: 25px;
+        padding-left: 50px;
+        line-height: 1.21;
+        color: #000000;
+    }
+
+    &__name {
+        margin-bottom: 25px;
+        font-size: 45px;
+        line-height: 1.22;
+
+        color: #000000;
+    }
+
+    &__biography {
+        margin-bottom: 40px;
+        width: 600px;
+    }
+}
